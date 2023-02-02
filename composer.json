@@ -1,0 +1,16 @@
+{
+    "name": "peteryang/xyz-plus",
+    "description": "xyz-plus",
+    "type": "project",
+    "authors": [
+        {
+            "name": "PeterYangs",
+            "email": "904801074@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "Apache-2.0"
+}
